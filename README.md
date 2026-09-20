@@ -86,13 +86,13 @@ El campo `id` utiliza `AUTOINCREMENT` para generar un identificador automáticam
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/ecvivar/PF1_Programacion_sobre_redes.git
 ```
 
 Ingresar a la carpeta del proyecto:
 
 ```bash
-cd PFO1
+cd PF1_Programacion_sobre_redes
 ```
 
 ### 2. Ejecutar el servidor
